@@ -1,0 +1,6 @@
+framework module Wyler {
+  umbrella header "Wyler-umbrella.h"
+
+  export *
+  module * { export * }
+}
